@@ -4,6 +4,7 @@ import java.util.List;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
+//Practice Exercise # 4
 public class FindWebElements extends Hooks {
 	public static void main(String[] args) {
 		setUp();

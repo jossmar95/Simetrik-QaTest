@@ -6,6 +6,7 @@ import org.testng.asserts.SoftAssert;
 import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;
 
+//Practice Exercise # 3
 public class TestValidation {
 
 	public static void main(String[] args) {

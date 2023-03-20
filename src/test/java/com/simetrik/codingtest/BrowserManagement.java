@@ -6,6 +6,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
+//Practice Exercise # 2
 public class BrowserManagement {
 	static String url = "http://www.deadlinkcity.com/";
 	public static void main(String[] args) {

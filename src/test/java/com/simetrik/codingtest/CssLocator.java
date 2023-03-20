@@ -1,6 +1,7 @@
 package com.simetrik.codingtest;
 import org.openqa.selenium.By;
 
+//Practice exercise #5
 public class CssLocator extends Hooks {
 
 	
